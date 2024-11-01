@@ -163,7 +163,9 @@ IV. Example User Interaction
 Welcome to the Hotel Reservation Management System
 
 Connect to Database
+
 Search Hotels
+
 Exit
 
 Option: 2
@@ -171,10 +173,15 @@ Option: 2
 Enter hotel name prefix: Hil Found the following hotels:
 
 Hilton Athens
+
 Hillside Resort
+
 Selection: 1 -- Hilton Athens Submenu --
 
 Search Customers
+
 View Customer Reservations
+
 View Available Rooms
+
 Return to Main Menu
